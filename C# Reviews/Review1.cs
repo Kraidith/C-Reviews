@@ -1,6 +1,6 @@
 ﻿namespace C__Reviews
 {
-    internal class Program
+    internal class Review1
     {
         static void Main(string[] args)
         {
