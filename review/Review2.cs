@@ -154,6 +154,8 @@ namespace review
         {
             Console.WriteLine("Input lnegth of array");
             int arrayLength = (int)Console.Read();
+            Console.WriteLine("Input Min range value for array");
+            int minRandomValue = (int)Console.Read();
             Console.WriteLine("Input Max randow value for array");
             int maxRandomValue = (int)Console.Read();
             int[] array= new int[arrayLength];
